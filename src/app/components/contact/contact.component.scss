@@ -1,0 +1,16 @@
+section{
+  background-color: #73281A;
+  & form{
+    width: 30%;
+    margin: auto;
+    & button{
+      background-color: transparent;
+      width: 100%;
+      border: 1px solid white;
+      border-radius: 5px;
+      color: white;
+      padding: 10px 0px;
+      margin: 10px 0px;
+    }
+  }
+}
